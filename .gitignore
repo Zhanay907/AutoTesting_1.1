@@ -38,9 +38,9 @@ out/
 *.war
 *.nar
 *.ear
-*.zip
 *.tar.gz
 *.rar
+*.zip
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
